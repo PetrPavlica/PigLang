@@ -1,0 +1,4 @@
+services:
+	- IPigLangFormComponent
+	- App\Router\RouterFactory::createRouter
+
